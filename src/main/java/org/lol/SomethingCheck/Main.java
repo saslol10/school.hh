@@ -1,4 +1,4 @@
-package org.lol.Task2;
+package org.lol.SomethingCheck;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -122,3 +122,4 @@ public class Main {
         return coords;
     }
 }
+
